@@ -1,0 +1,8 @@
+:root {
+  --bg: #eef2ff;
+  --line: #1e3a8a;
+  --fill: #aadcec;
+  --text: #1e3a8a;
+  --accent: #73bbc5;
+  --tw-prose-body: var(--text);
+}
